@@ -16,3 +16,6 @@ apt install -y nodejs
 node -v
 npm install -g yarn
 yarn -v
+# Install NodeJS
+apt update
+curl -fsSL https://de
