@@ -19,3 +19,7 @@ apt install -y nodejs
 node -v
 npm install -g yarn
 Running an Agentic Economic Flow on Arc with ERC-8183
+ll -y nodejs
+node -v
+npm install -g yarn
+Running an Agentic Economi
